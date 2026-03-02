@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Lyseron👋
 
-<!--
-**Lyseron/Lyseron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at **42 Paris**
+Here are some of my 42 projects :
 
-Here are some ideas to get you started:
+## 🟢 Circle 0
+<p align="center">
+  <a href="https://github.com/Lyseron/libft">
+    <img src="" width="80" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🟡 Circle 1
+<p align="center">
+  <a href="https://github.com/Lyseron/ft_printf">
+    <img src="" width="80" />
+  </a>
+  <a href="https://github.com/Lyseron/Get_next_line">
+    <img src="" width="80" />
+  </a>
+</p>
+
+Thank you !

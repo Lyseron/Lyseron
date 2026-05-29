@@ -16,7 +16,7 @@ The app uses a swipe-based interface to explore events, exhibitions, concerts, s
 
 <p align="center">
   <a href="https://github.com/Lyseron/nom-du-repo-arduino">
-    <img src="https://img.shields.io/badge/-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swip'Art-FFE1D6?style=for-the-badge&logo=swift&logoColor=FA7343" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ Currently exploring Arduino, electronics and interactive prototyping through sma
 A small Arduino-based system where a light progressively changes depending on user presence or interaction.
 <p align="center">
   <a href="https://github.com/Lyseron/nom-du-repo-arduino">
-   <img src="https://img.shields.io/badge/-B8E8E0?style=for-the-badge&logo=arduino&logoColor=00878F" />
+   <img src="https://img.shields.io/badge/Night%20Light-B8E8E0?style=for-the-badge&logo=arduino&logoColor=00878F" />
   </a>
 </p>
 

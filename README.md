@@ -16,7 +16,7 @@ The app uses a swipe-based interface to explore events, exhibitions, concerts, s
 
 <p align="center">
   <a href="https://github.com/Lyseron/nom-du-repo-arduino">
-    <img src="https://img.shields.io/badge/Arduino-Interactive%20Light%20Prototype-F7A8A8?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="https://&logo=arduino&logoColor=white" />
   </a>
 </p>
 

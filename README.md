@@ -11,15 +11,8 @@ I enjoy building projects that mix code, creativity and real-world interaction.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/UX%2FUI-FF69B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prototyping-6A5ACD?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Lyseron/nom-du-repo-switch">
-    <img src="assets/swift-icon.png" alt="Switch iOS app project" width="100"/>
+  <a href="https://github.com/Lyseron/nom-du-repo-arduino">
+    <img src="https://img.shields.io/badge/Arduino-Interactive%20Light%20Prototype-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
 </p>
 An iOS app concept designed to help people discover cultural activities and places in the city.
@@ -32,15 +25,8 @@ The app uses a swipe-based interface to explore events, exhibitions, concerts, s
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electronics-FFB000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prototyping-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sensors-2E8B57?style=for-the-badge" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Lyseron/nom-du-repo-arduino">
-    <img src="assets/arduino-icon.png" alt="Arduino project" width="100"/>
+    <img src="https://img.shields.io/badge/Arduino-Interactive%20Light%20Prototype-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
 </p>
 Currently exploring Arduino, electronics and interactive prototyping through small projects using LEDs, buttons, sensors, PWM and breadboards.

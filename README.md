@@ -7,11 +7,10 @@ I'm a student at 42 Paris, currently learning software development through proje
 I mainly work with C and C++, and I'm also exploring Swift, Arduino, electronics and interactive prototyping.
 I enjoy building projects that mix code, creativity and real-world interaction.
 
+Here are some of my projects and what I learned from them.
 <br>
 
-<p align="center">
-  <strong>━━━━━━━━━━━━ SWIFT & iOS ━━━━━━━━━━━━</strong>
-</p>
+<h2>SWIFT & iOS</h2>
 
 <div align="center">
 
@@ -30,9 +29,7 @@ The app uses a swipe-based interface to explore events, exhibitions, concerts, s
 
 <br>
 
-<p align="center">
-  <strong>━━━━━━━━ ARDUINO & ELECTRONICS ━━━━━━━━</strong>
-</p>
+<h2>ARDUINO & ELECTRONICS</h2>
 
 <div align="center">
 
@@ -50,12 +47,7 @@ A small Arduino-based system where a light progressively changes depending on us
 
 <br>
 
-<p align="center">
-  <strong>━━━━━━━━━━━━ 42 PROJECTS ━━━━━━━━━━━━</strong>
-</p>
-Projects developed as part of the 42 curriculum, focused on low-level programming, algorithms, Unix systems and software architecture.
-<br>
-
+<h2>42 PROJECTS</h2>
 <div align="center">
 
 ### Libft

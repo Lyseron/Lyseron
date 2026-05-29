@@ -48,31 +48,26 @@ A small Arduino-based system where a light progressively changes depending on us
 
 Projects developed as part of the 42 curriculum, focused on low-level programming, algorithms, Unix systems and software architecture :
 
-<p align="center">
-  <a href="https://github.com/Lyseron/Libft">
-    <img src="https://img.shields.io/badge/Libft-000000?style=for-the-badge&logo=42&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lyseron/Ft_printf">
-    <img src="https://img.shields.io/badge/ft_printf-000000?style=for-the-badge&logo=42&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lyseron/Get_next_line">
-    <img src="https://img.shields.io/badge/get_next_line-000000?style=for-the-badge&logo=42&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Lyseron/push_swap">
-    <img src="https://img.shields.io/badge/push_swap-000000?style=for-the-badge&logo=42&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lyseron/pipex">
-    <img src="https://img.shields.io/badge/pipex-000000?style=for-the-badge&logo=42&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lyseron/so_long">
-    <img src="https://img.shields.io/badge/so_long-000000?style=for-the-badge&logo=42&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lyseron/minishell">
-    <img src="https://img.shields.io/badge/minishell-000000?style=for-the-badge&logo=42&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/Lyseron/Libft">
+  <img src="https://img.shields.io/badge/Libft-F4A6B8?style=for-the-badge&logo=42&logoColor=white" />
+</a>
+<a href="https://github.com/Lyseron/Ft_printf">
+  <img src="https://img.shields.io/badge/ft_printf-B8A4E3?style=for-the-badge&logo=42&logoColor=white" />
+</a>
+<a href="https://github.com/Lyseron/Get_next_line">
+  <img src="https://img.shields.io/badge/get_next_line-A7C7E7?style=for-the-badge&logo=42&logoColor=white" />
+</a>
+<a href="https://github.com/Lyseron/push_swap">
+  <img src="https://img.shields.io/badge/push_swap-A8D5BA?style=for-the-badge&logo=42&logoColor=white" />
+</a>
+<a href="https://github.com/Lyseron/pipex">
+  <img src="https://img.shields.io/badge/pipex-F7C59F?style=for-the-badge&logo=42&logoColor=white" />
+</a>
+<a href="https://github.com/Lyseron/so_long">
+  <img src="https://img.shields.io/badge/so_long-CDB4DB?style=for-the-badge&logo=42&logoColor=white" />
+</a>
+<a href="https://github.com/Lyseron/minishell">
+  <img src="https://img.shields.io/badge/minishell-D8BFD8?style=for-the-badge&logo=42&logoColor=white" />
+</a>
 
 Thank you !

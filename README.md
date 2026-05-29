@@ -19,7 +19,7 @@ I enjoy building projects that mix code, creativity and real-world interaction.
 
 <p align="center">
   <a href="https://github.com/Lyseron/nom-du-repo-switch">
-    <img src="assets/switch-icon.png" alt="Switch iOS app project" width="180"/>
+    <img src="assets/swift-icon.png" alt="Switch iOS app project" width="180"/>
   </a>
 </p>
 An iOS app concept designed to help people discover cultural activities and places in the city.

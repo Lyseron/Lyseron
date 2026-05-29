@@ -48,6 +48,7 @@ A small Arduino-based system where a light progressively changes depending on us
 
 Projects developed as part of the 42 curriculum, focused on low-level programming, algorithms, Unix systems and software architecture :
 
+<p align="center">
 <a href="https://github.com/Lyseron/Libft">
   <img src="https://img.shields.io/badge/Libft-F4A6B8?style=for-the-badge&logo=42&logoColor=white" />
 </a>
@@ -69,5 +70,6 @@ Projects developed as part of the 42 curriculum, focused on low-level programmin
 <a href="https://github.com/Lyseron/minishell">
   <img src="https://img.shields.io/badge/minishell-D8BFD8?style=for-the-badge&logo=42&logoColor=white" />
 </a>
+</p>
 
 Thank you !

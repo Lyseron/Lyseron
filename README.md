@@ -16,7 +16,7 @@ The app uses a swipe-based interface to explore events, exhibitions, concerts, s
 
 <p align="center">
   <a href="https://github.com/Lyseron/nom-du-repo-arduino">
-    <img src="https://img.shields.io/badge/Arduino-Interactive%20Light%20Prototype-00979D?style=for-the-badge&logo=arduino&logoColor=purple" />
+    <img src="https://img.shields.io/badge/Arduino-Interactive%20Light%20Prototype-F7A8A8?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
 </p>
 
@@ -26,13 +26,14 @@ The app uses a swipe-based interface to explore events, exhibitions, concerts, s
   <strong>━━━━━━━━ ARDUINO & ELECTRONICS ━━━━━━━━</strong>
 </p>
 
+
 Currently exploring Arduino, electronics and interactive prototyping through small projects using LEDs, buttons, sensors, PWM and breadboards.
 
 **Interactive light prototype**  
 A small Arduino-based system where a light progressively changes depending on user presence or interaction.
 <p align="center">
   <a href="https://github.com/Lyseron/nom-du-repo-arduino">
-    <img src="https://img.shields.io/badge/Arduino-Interactive%20Light%20Prototype-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arduino-Interactive%20Light%20Prototype-9ADBCF?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
 </p>
 

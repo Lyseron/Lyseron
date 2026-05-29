@@ -10,20 +10,21 @@ I enjoy building projects that mix code, creativity and real-world interaction.
   <strong>━━━━━━━━━━━━ SWIFT & iOS ━━━━━━━━━━━━</strong>
 </p>
 
+**Swip'Art**  
+An iOS app concept designed to help people discover cultural activities and places in the city.
+The app uses a swipe-based interface to explore events, exhibitions, concerts, screenings or places to visit, and helps create small groups around shared cultural interests.
+
 <p align="center">
   <a href="https://github.com/Lyseron/nom-du-repo-arduino">
     <img src="https://img.shields.io/badge/Arduino-Interactive%20Light%20Prototype-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
 </p>
-An iOS app concept designed to help people discover cultural activities and places in the city.
-The app uses a swipe-based interface to explore events, exhibitions, concerts, screenings or places to visit, and helps create small groups around shared cultural interests.
 
 <br>
 
 <p align="center">
   <strong>━━━━━━━━ ARDUINO & ELECTRONICS ━━━━━━━━</strong>
 </p>
-
 
 Currently exploring Arduino, electronics and interactive prototyping through small projects using LEDs, buttons, sensors, PWM and breadboards.
 **Interactive light prototype**  

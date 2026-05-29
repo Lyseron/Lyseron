@@ -53,22 +53,30 @@ A small Arduino-based system where a light progressively changes depending on us
 
 Projects developed as part of the 42 curriculum, focused on low-level programming, algorithms, Unix systems and software architecture :
 
-## 🟢 Circle 0
 <p align="center">
-  <a href="https://github.com/Lyseron/libft">
-    <img src="" width="80" />
+  <a href="https://github.com/Lyseron/Libft">
+    <img src="https://img.shields.io/badge/Libft-000000?style=for-the-badge&logo=42&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lyseron/Ft_printf">
+    <img src="https://img.shields.io/badge/ft_printf-000000?style=for-the-badge&logo=42&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lyseron/Get_next_line">
+    <img src="https://img.shields.io/badge/get_next_line-000000?style=for-the-badge&logo=42&logoColor=white" />
   </a>
 </p>
 
----
-
-## 🟡 Circle 1
 <p align="center">
-  <a href="https://github.com/Lyseron/ft_printf">
-    <img src="" width="80" />
+  <a href="https://github.com/Lyseron/push_swap">
+    <img src="https://img.shields.io/badge/push_swap-000000?style=for-the-badge&logo=42&logoColor=white" />
   </a>
-  <a href="https://github.com/Lyseron/Get_next_line">
-    <img src="" width="80" />
+  <a href="https://github.com/Lyseron/pipex">
+    <img src="https://img.shields.io/badge/pipex-000000?style=for-the-badge&logo=42&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lyseron/so_long">
+    <img src="https://img.shields.io/badge/so_long-000000?style=for-the-badge&logo=42&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lyseron/minishell">
+    <img src="https://img.shields.io/badge/minishell-000000?style=for-the-badge&logo=42&logoColor=white" />
   </a>
 </p>
 

@@ -53,7 +53,7 @@ A small Arduino-based system where a light progressively changes depending on us
 <p align="center">
   <strong>━━━━━━━━━━━━ 42 PROJECTS ━━━━━━━━━━━━</strong>
 </p>
-Projects developed as part of the 42 curriculum, focused on low-level programming, algorithms, Unix systems and software architecture :
+Projects developed as part of the 42 curriculum, focused on low-level programming, algorithms, Unix systems and software architecture.
 <br>
 
 <div align="center">

@@ -19,7 +19,7 @@ I enjoy building projects that mix code, creativity and real-world interaction.
 
 <p align="center">
   <a href="https://github.com/Lyseron/nom-du-repo-switch">
-    <img src="https://img.shields.io/badge/Switch-iOS App-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="assets/switch-icon.png" alt="Switch iOS app project" width="260"/>
   </a>
 </p>
 An iOS app concept designed to help people discover cultural activities and places in the city.
@@ -40,7 +40,7 @@ The app uses a swipe-based interface to explore events, exhibitions, concerts, s
 
 <p align="center">
   <a href="https://github.com/Lyseron/nom-du-repo-arduino">
-    <img src="https://img.shields.io/badge/Interactive Light Prototype-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="assets/arduino-icon.png" alt="Arduino project" width="260"/>
   </a>
 </p>
 Currently exploring Arduino, electronics and interactive prototyping through small projects using LEDs, buttons, sensors, PWM and breadboards.

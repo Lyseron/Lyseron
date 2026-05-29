@@ -1,5 +1,21 @@
 ## Hi there, I'm Lyseron 👋
 
+## ✦ Featured Projects ✦
+
+### 💡 [Arduino Interactive Light](https://github.com/Lyseron/nom-du-repo-arduino)
+
+A small Arduino-based prototype exploring LEDs, PWM, sensors and interactive lighting.
+
+`Arduino` `Electronics` `Prototyping`
+
+---
+
+### 📱 [Switch iOS App](https://github.com/Lyseron/nom-du-repo-switch)
+
+An iOS app concept designed to help people discover cultural activities and places in the city, and create small groups around shared cultural interests.
+
+`Swift` `iOS` `UX/UI`
+
 I'm a student at 42 Paris, currently learning software development through project-based programming.
 I mainly work with C and C++, and I'm also exploring Swift, Arduino, electronics and interactive prototyping.
 I enjoy building projects that mix code, creativity and real-world interaction.

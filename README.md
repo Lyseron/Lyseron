@@ -1,4 +1,4 @@
-## Hi there, I'm Lyseron 👋
+## Hi there, I'm Lyseron
 
 I'm a student at 42 Paris, currently learning software development through project-based programming.
 I mainly work with C and C++, and I'm also exploring Swift, Arduino, electronics and interactive prototyping.

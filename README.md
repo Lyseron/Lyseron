@@ -39,7 +39,7 @@ A small Arduino-based system where a light progressively changes depending on us
 
 **Skills:** Arduino · electronics · sensors · LEDs · prototyping · interactive systems
 
-<a href="https://github.com/Lyseron/Interactive-Light">
+<a href="https://github.com/Lyseron/Interactive_Light">
   <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=F4FFFD&color=CDEDE8" />
 </a>
 

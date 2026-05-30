@@ -1,6 +1,6 @@
 
 
-## Hi there, I'm Lyseron
+<h1>Hi there, I'm Lyseron</h1> 
 
 I'm a student at 42 Paris, currently learning software development through project-based programming.
 
@@ -22,7 +22,7 @@ The app uses a swipe-based interface to explore events, exhibitions, concerts, s
 **Skills:** Swift · iOS development · UI design · app prototyping · user interaction
 
 <a href="https://github.com/Lyseron/SwipArt">
-  <img src="https://img.shields.io/badge/Swip%27Art-FADADD?style=for-the-badge&logo=swift&logoColor=FA7343&labelColor=FFF5F2&color=FADADD" />
+  <img src="https://img.shields.io/badge/View%20project-FADADD?style=for-the-badge&logo=swift&logoColor=FA7343&labelColor=FFF5F2&color=FADADD" />
 </a>
 
 </div>
@@ -40,7 +40,7 @@ A small Arduino-based system where a light progressively changes depending on us
 **Skills:** Arduino · electronics · sensors · LEDs · prototyping · interactive systems
 
 <a href="https://github.com/Lyseron/Interactive-Light">
-  <img src="https://img.shields.io/badge/Interactive%20Light-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=F4FFFD&color=CDEDE8" />
+  <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=F4FFFD&color=CDEDE8" />
 </a>
 
 </div>

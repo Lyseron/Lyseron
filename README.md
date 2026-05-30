@@ -50,6 +50,33 @@ A small Arduino-based system where a light progressively changes depending on us
 <h2>42 PROJECTS</h2>
 <div align="center">
 
+
+### Minishell
+
+A simplified Unix shell built in C as a group project.<br>
+I worked on the parsing and execution logic, including command handling, pipes, redirections, environment variables, and signal handling. This project taught me how command-line interpreters work under the hood and how to structure a larger C project as a team.
+
+Skills: C · Unix processes · parsing · file descriptors · pipes · redirections · signals · environment variables · teamwork
+
+<a href="https://github.com/Lyseron/Minishell">
+  <img src="https://img.shields.io/badge/View%20project-E9DDFF?style=for-the-badge&logo=42&logoColor=B8A4E3&labelColor=F8F4FF&color=E9DDFF" />
+</a>
+<br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
+
+### C++ Modules
+
+A set of projects to learn the basics of object-oriented programming in C++.
+I learned how classes, constructors, destructors, inheritance, polymorphism, and operator overloading work, while writing cleaner and more structured code.
+
+Skills: C++ · OOP · classes · inheritance · polymorphism · operator overloading · memory management
+
+<a href="https://github.com/Lyseron/CPP">
+  <img src="https://img.shields.io/badge/View%20project-D6EAF8?style=for-the-badge&logo=42&logoColor=5DADE2&labelColor=F3FAFF&color=D6EAF8" />
+</a>
+<br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
+
 ### Libft
 
 My first C library.  
@@ -60,8 +87,48 @@ I learned how standard C functions work internally, and how to write cleaner, re
 <a href="https://github.com/Lyseron/Libft">
   <img src="https://img.shields.io/badge/View%20project-F7D6E0?style=for-the-badge&logo=42&logoColor=D88BA3&labelColor=FFF3F6&color=F7D6E0" />
 </a>
-
 <br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
+
+### So_long
+
+A small 2D game built in C using the MiniLibX graphics library.<br>
+I learned how to handle a game loop, keyboard events, map parsing, basic rendering, and path validation. This project helped me understand how graphics, user input, and game logic work together.
+
+Skills: C · MiniLibX · 2D rendering · map parsing · events · game logic · flood fill
+
+<a href="https://github.com/Lyseron/So_long">
+  <img src="https://img.shields.io/badge/View%20project-D8F3DC?style=for-the-badge&logo=42&logoColor=52B788&labelColor=F4FFF6&color=D8F3DC" />
+</a>
+<br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
+
+### Philosophers
+
+A concurrency project based on the dining philosophers problem.
+
+I learned how to work with threads, mutexes, shared data, and timing issues. This project helped me understand synchronization problems and how to avoid data races and deadlocks.
+
+Skills: C · threads · mutexes · concurrency · synchronization · timing · data races
+
+<a href="https://github.com/Lyseron/Philosophers">
+  <img src="https://img.shields.io/badge/View%20project-E9DDFF?style=for-the-badge&logo=42&logoColor=B8A4E3&labelColor=F8F4FF&color=E9DDFF" />
+</a>
+<br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
+
+### Pipex
+
+A Unix project that reproduces the behavior of shell pipes.<br>
+I learned how processes communicate through pipes, how to use fork, execve, dup2, and how to handle file descriptors, command paths, and execution errors.
+
+Skills: C · Unix processes · pipes · file descriptors · fork · execve · error handling
+
+<a href="https://github.com/Lyseron/Pipex">
+  <img src="https://img.shields.io/badge/View%20project-FADADD?style=for-the-badge&logo=swift&logoColor=FA7343&labelColor=FFF5F2&color=FADADD" />
+</a>
+<br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
 
 ### ft_printf
 
@@ -73,8 +140,8 @@ I learned how to handle variadic functions, parsing and formatted output.
 <a href="https://github.com/Lyseron/Ft_printf">
   <img src="https://img.shields.io/badge/View%20project-E9DDFF?style=for-the-badge&logo=42&logoColor=B8A4E3&labelColor=F8F4FF&color=E9DDFF" />
 </a>
-
 <br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
 
 ### Get_next_line
 
@@ -86,8 +153,8 @@ I learned how buffers, static variables and file descriptors work together.
 <a href="https://github.com/Lyseron/Get_next_line">
   <img src="https://img.shields.io/badge/View%20project-D8F3DC?style=for-the-badge&logo=42&logoColor=52B788&labelColor=F4FFF6&color=D8F3DC" />
 </a>
-
 <br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
 
 ### Born2beroot
 

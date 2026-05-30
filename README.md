@@ -45,10 +45,7 @@ Skills: Swift · iOS development · UI design · app prototyping · IoT concept 
 </a>
 <br><br>
 <p align="center">✧ ─────── ✦ ─────── ✧</p>
-
 </div>
-<br>
-
 <div align="center">
 
 ### Interactive Light

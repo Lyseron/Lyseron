@@ -21,7 +21,7 @@ The app uses a swipe-based interface to explore events, exhibitions, concerts, s
 
 **Skills:** Swift · iOS development · UI design · app prototyping · user interaction
 
-<a href="https://github.com/Lyseron/Swip-Art">
+<a href="https://github.com/Lyseron/SwipArt">
   <img src="https://img.shields.io/badge/Swip%27Art-FADADD?style=for-the-badge&logo=swift&logoColor=FA7343&labelColor=FFF5F2&color=FADADD" />
 </a>
 

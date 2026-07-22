@@ -73,7 +73,7 @@ A two-person project featuring a retro-inspired first-person exploration game po
 
 **Skills:** C · raycasting · computer graphics · mathematics · rendering · collision detection · game development
 
-<a href="https://github.com/Lyseron/Gallery_Explorer">
+<a href="https://github.com/Lyseron/Cub3d">
   <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=F4FFFD&color=CDEDE8" />
 </a>
 
@@ -92,7 +92,7 @@ A retro-inspired 2D adventure game developed in C++ using SDL3. Built around a c
 
 <br>In Development..
 
-<a href="https://github.com/Lyseron/Princess_Escape">
+<a href="https://github.com/Lyseron/PrincessEscape">
   <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=F4FFFD&color=CDEDE8" />
 </a>
 

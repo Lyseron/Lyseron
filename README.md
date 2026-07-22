@@ -10,7 +10,7 @@ I enjoy building projects that mix code, creativity and real-world interaction.
 Here are some of my projects and what I learned from them.
 <br>
 
-<h2>SWIFT & iOS</h2>
+<h2>Mobile Development</h2>
 
 <div align="center">
 
@@ -29,7 +29,7 @@ The app uses a swipe-based interface to explore events, exhibitions, concerts, s
 
 <br>
 
-<h2>ARDUINO & ELECTRONICS</h2>
+<h2>Embedded & Electronics</h2>
 
 <div align="center">
 
@@ -40,7 +40,7 @@ An iOS app concept designed to monitor the well-being of a plant through a conne
 Skills: Swift · iOS development · UI design · app prototyping · IoT concept · data visualization
 <br>Coming Soon..
 
-<a href="https://github.com/Lyseron/Pet-Plant">
+<a href="https://github.com/Lyseron/PetPlant">
   <img src="https://img.shields.io/badge/View%20project-E9DDFF?style=for-the-badge&logo=42&logoColor=B8A4E3&labelColor=F8F4FF&color=E9DDFF" />
 </a>
 <br><br>
@@ -63,7 +63,42 @@ A small Arduino-based system where a light progressively changes depending on us
 
 <br>
 
-<h2>42 PROJECTS</h2>
+<h2>Graphics & Game Development</h2>
+</div>
+<div align="center">
+
+### Gallery Explorer
+
+A two-person project featuring a retro-inspired first-person exploration game powered by a custom raycasting engine written in C. Explore a virtual gallery, discover artworks, and experience a handcrafted 3D environment.
+
+**Skills:** C · raycasting · computer graphics · mathematics · rendering · collision detection · game development
+
+<a href="https://github.com/Lyseron/Gallery_Explorer">
+  <img src="https://img.shields.io/badge/Visit%20the%20Gallery-CDEDE8?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=F4FFFD&color=CDEDE8" />
+</a>
+
+</div>
+
+</div>
+<div align="center">
+
+### Princess Escape
+
+A retro-inspired 2D adventure game developed in C++ using SDL3. Built around a custom game architecture featuring real-time rendering, animations, enemy behaviors, collisions, and an inventory system.
+
+**Skills:** C++ · SDL3 · game programming · game architecture · AI · rendering · animation · OOP
+
+<br>In Development..
+
+<a href="https://github.com/Lyseron/Princess_Escape">
+  <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=F4FFFD&color=CDEDE8" />
+</a>
+
+</div>
+
+<br>
+
+<h2>Systems Programming</h2>
 <div align="center">
 
 

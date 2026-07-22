@@ -74,7 +74,7 @@ A two-person project featuring a retro-inspired first-person exploration game po
 **Skills:** C · raycasting · computer graphics · mathematics · rendering · collision detection · game development
 
 <a href="https://github.com/Lyseron/Cub3d">
-  <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=F4FFFD&color=CDEDE8" />
+  <img src="https://img.shields.io/badge/View%20project-F7D6E0?style=for-the-badge&logo=42&logoColor=D88BA3&labelColor=FFF3F6&color=F7D6E0" />
 </a>
 
 </div>

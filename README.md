@@ -38,7 +38,7 @@ The app uses a swipe-based interface to explore events, exhibitions, concerts, s
 An iOS app concept designed to monitor the well-being of a plant through a connected care system. The app visualizes plant health data such as soil moisture, light exposure and water tank level, and helps users know when their plant needs water, more light or general care.
 
 Skills: Swift · iOS development · UI design · app prototyping · IoT concept · data visualization
-<br>Coming Soon..
+<br>In Development..
 
 <a href="https://github.com/Lyseron/PetPlant">
   <img src="https://img.shields.io/badge/View%20project-E9DDFF?style=for-the-badge&logo=42&logoColor=B8A4E3&labelColor=F8F4FF&color=E9DDFF" />
@@ -53,7 +53,7 @@ Skills: Swift · iOS development · UI design · app prototyping · IoT concept 
 A small Arduino-based system where a light progressively changes depending on user presence or interaction.
 
 **Skills:** Arduino · electronics · sensors · LEDs · prototyping · interactive systems
-<br>Coming Soon..
+<br>In Development..
 
 <a href="https://github.com/Lyseron/Interactive_Light">
   <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=F4FFFD&color=CDEDE8" />

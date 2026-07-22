@@ -74,12 +74,14 @@ A two-person project featuring a retro-inspired first-person exploration game po
 **Skills:** C · raycasting · computer graphics · mathematics · rendering · collision detection · game development
 
 <a href="https://github.com/Lyseron/Gallery_Explorer">
-  <img src="https://img.shields.io/badge/Visit%20the%20Gallery-CDEDE8?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=F4FFFD&color=CDEDE8" />
+  <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=F4FFFD&color=CDEDE8" />
 </a>
 
 </div>
 
 </div>
+<br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
 <div align="center">
 
 ### Princess Escape

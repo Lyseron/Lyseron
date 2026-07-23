@@ -121,7 +121,7 @@ Skills: C · Unix processes · parsing · file descriptors · pipes · redirecti
 
 A set of projects to learn the basics of object-oriented programming in C++.
 I learned how classes, constructors, destructors, inheritance, polymorphism, and operator overloading work, while writing cleaner and more structured code.
-
+<br>In Development..
 Skills: C++ · OOP · classes · inheritance · polymorphism · operator overloading · memory management
 
 <a href="https://github.com/Lyseron/CPP">

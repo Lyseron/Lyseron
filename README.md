@@ -24,6 +24,8 @@ Objectif : détecter les fils coupés, les inversions et les courts-circuits gr�
 <a href="https://github.com/Lyseron/MiniCableLab">
   <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=D6EAF8&color=CDEDE8" />
 </a>
+<br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
 
 ### Soldering Lab
 
@@ -34,6 +36,8 @@ Exercices pratiques de soudure et dessoudage de composants traversants, montage 
 <a href="https://github.com/Lyseron/SolderingLab">
   <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=F4FFFD&color=CDEDE8" />
 </a>
+<br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
 
 ### Interactive Light
 
@@ -45,6 +49,8 @@ A small Arduino-based system where a light progressively changes depending on us
 <a href="https://github.com/Lyseron/Interactive_Light">
   <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=B8A4E3&color=E9DDFF" />
 </a>
+<br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
 
 ### Pet Plant
 

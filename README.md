@@ -18,6 +18,7 @@ Here are some of my projects and what I learned from them.
 
 Conception d'un outil de diagnostic basé sur Arduino Uno.
 Objectif : détecter les fils coupés, les inversions et les courts-circuits grâce à la programmation embarquée en C/C++.
+
 **Skills:** Arduino · electronics · sensors · LEDs · prototyping · interactive systems
 <br>In Development..
 
@@ -30,6 +31,7 @@ Objectif : détecter les fils coupés, les inversions et les courts-circuits gr�
 ### Soldering Lab
 
 Exercices pratiques de soudure et dessoudage de composants traversants, montage de circuits simples et vérification des connexions au multimètre.
+
 **Skills:** Arduino · electronics · sensors · LEDs · prototyping · interactive systems
 <br>In Development..
 

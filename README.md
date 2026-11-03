@@ -75,7 +75,7 @@ An intensive introduction to embedded programming, focused on working with micro
 **Skills:** C · embedded systems · microcontrollers · digital I/O · hardware · debugging  
 <br>Learning Project
 
-<a href="https://github.com/Lyseron/Piscine_Emb">
+<a href="https://github.com/Lyseron/Piscine-Emb">
   <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=B8A4E3&color=E9DDFF" />
 </a>
 <br><br>

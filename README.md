@@ -14,29 +14,28 @@ Here are some of my projects and what I learned from them.
 
 <div align="center">
 
-### Minicable Lab
+### MiniCableLab
 
-Conception d'un outil de diagnostic basé sur Arduino Uno.
-Objectif : détecter les fils coupés, les inversions et les courts-circuits grâce à la programmation embarquée en C/C++.
+A small Arduino-based cable tester that checks continuity on one or two wires and detects open circuits, inverted connections, and possible short circuits. Results are displayed on an LCD with LED indicators.
 
-**Skills:** Arduino · electronics · sensors · LEDs · prototyping · interactive systems
-<br>In Development..
+**Skills:** Arduino · C++ · electronics · LCD · continuity testing · prototyping  
+<br>Working Prototype
 
-<a href="https://github.com/Lyseron/MiniCableLab">
-  <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=D6EAF8&color=CDEDE8" />
+<a href="https://github.com/Lyseron/MinicableLab">
+  <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=B8A4E3&color=E9DDFF" />
 </a>
 <br><br>
 <p align="center">✧ ─────── ✦ ─────── ✧</p>
 
 ### Soldering Lab
 
-Exercices pratiques de soudure et dessoudage de composants traversants, montage de circuits simples et vérification des connexions au multimètre.
+A hands-on electronics project focused on learning soldering techniques, working with electronic components, and assembling circuits.
 
-**Skills:** Arduino · electronics · sensors · LEDs · prototyping · interactive systems
-<br>In Development..
+**Skills:** soldering · electronics · circuit assembly · components · hardware · prototyping  
+<br>Hands-on Practice
 
 <a href="https://github.com/Lyseron/SolderingLab">
-  <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=F4FFFD&color=CDEDE8" />
+  <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=B8A4E3&color=E9DDFF" />
 </a>
 <br><br>
 <p align="center">✧ ─────── ✦ ─────── ✧</p>
@@ -71,13 +70,13 @@ Skills: Swift · iOS development · UI design · app prototyping · IoT concept 
 
 ### Piscine Embedded
 
-Exercices pratiques de soudure et dessoudage de composants traversants, montage de circuits simples et vérification des connexions au multimètre.
+An intensive introduction to embedded programming, focused on working with microcontrollers, understanding low-level code, and interacting directly with hardware.
 
-**Skills:** Arduino · electronics · sensors · LEDs · prototyping · interactive systems
-<br>In Development..
+**Skills:** C · embedded systems · microcontrollers · digital I/O · hardware · debugging  
+<br>Learning Project
 
-<a href="https://github.com/Lyseron/PiscineEmb">
-  <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=F4FFFD&color=CDEDE8" />
+<a href="https://github.com/Lyseron/Piscine_emb">
+  <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=B8A4E3&color=E9DDFF" />
 </a>
 <br><br>
 <p align="center">✧ ─────── ✦ ─────── ✧</p>

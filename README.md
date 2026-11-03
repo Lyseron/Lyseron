@@ -53,7 +53,7 @@ A small Arduino-based system where a light progressively changes depending on us
 <br><br>
 <p align="center">✧ ─────── ✦ ─────── ✧</p>
 
-### Pet Plant
+<!--### Pet Plant
 
 An iOS app concept designed to monitor the well-being of a plant through a connected care system. The app visualizes plant health data such as soil moisture, light exposure and water tank level, and helps users know when their plant needs water, more light or general care.
 
@@ -66,7 +66,7 @@ Skills: Swift · iOS development · UI design · app prototyping · IoT concept 
 <br><br>
 <p align="center">✧ ─────── ✦ ─────── ✧</p>
 </div>
-<div align="center">
+<div align="center">-->
 
 ### Piscine Embedded
 

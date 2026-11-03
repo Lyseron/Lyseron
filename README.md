@@ -69,6 +69,19 @@ Skills: Swift · iOS development · UI design · app prototyping · IoT concept 
 </div>
 <div align="center">
 
+### Piscine Embedded
+
+Exercices pratiques de soudure et dessoudage de composants traversants, montage de circuits simples et vérification des connexions au multimètre.
+
+**Skills:** Arduino · electronics · sensors · LEDs · prototyping · interactive systems
+<br>In Development..
+
+<a href="https://github.com/Lyseron/PiscineEmb">
+  <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=F4FFFD&color=CDEDE8" />
+</a>
+<br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
+
 </div>
 
 <br>

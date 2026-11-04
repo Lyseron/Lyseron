@@ -1,5 +1,4 @@
 
-
 <h1>Hi there, I'm Lyseron</h1> 
 
 I'm a student at 42 Paris, currently learning software development through project-based programming.

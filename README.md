@@ -40,7 +40,20 @@ A hands-on electronics project focused on learning soldering techniques, working
 <br><br>
 <p align="center">✧ ─────── ✦ ─────── ✧</p>
 
-### Interactive Light
+### ElectronicDice
+
+A small Arduino-based electronic dice that generates a random number from 1 to 6 when a button is pressed. The result is displayed using 7 LEDs arranged like a traditional dice.
+
+**Skills:** Arduino · C++ · electronics · LEDs · random number generation · soldering · prototyping  
+<br>Working Prototype
+
+<a href="https://github.com/Lyseron/ElectronicDice">
+  <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=B8A4E3&color=E9DDFF" />
+</a>
+<br><br>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>
+
+<!--### Interactive Light
 
 A small Arduino-based system where a light progressively changes depending on user presence or interaction.
 
@@ -53,7 +66,7 @@ A small Arduino-based system where a light progressively changes depending on us
 <br><br>
 <p align="center">✧ ─────── ✦ ─────── ✧</p>
 
-<!--### Pet Plant
+### Pet Plant
 
 An iOS app concept designed to monitor the well-being of a plant through a connected care system. The app visualizes plant health data such as soil moisture, light exposure and water tank level, and helps users know when their plant needs water, more light or general care.
 

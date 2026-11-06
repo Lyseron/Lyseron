@@ -63,7 +63,7 @@ A small Arduino-based system where a light progressively changes depending on us
   <img src="https://img.shields.io/badge/View%20project-CDEDE8?style=for-the-badge&logo=arduino&logoColor=00878F&labelColor=B8A4E3&color=E9DDFF" />
 </a>
 <br><br>
-<p align="center">✧ ─────── ✦ ─────── ✧</p>
+<p align="center">✧ ─────── ✦ ─────── ✧</p>-->
 
 ### Pet Plant
 
@@ -78,7 +78,7 @@ Skills: Swift · iOS development · UI design · app prototyping · IoT concept 
 <br><br>
 <p align="center">✧ ─────── ✦ ─────── ✧</p>
 </div>
-<div align="center">-->
+<div align="center">
 
 ### Piscine Embedded
 
